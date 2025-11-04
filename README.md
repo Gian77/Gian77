@@ -3,7 +3,7 @@
 
 I’m a microbial ecologist who adopts reproducible statistical methods and bioinformatics tools to advance microbiome research.
 
-At the [Great Lakes Bioenergy Research Center (GLBRC)](https://www.glbrc.org/), I support researchers and students in answering scientific questions and improving rigor by developing robust statistical and machine-learning frameworks, standardized HPC/R pipelines, and cutting-edge open-source software.
+At the [Great Lakes Bioenergy Research Center (GLBRC)](https://www.glbrc.org/), I co-lead a small team of computational biologists, data analysis, and bioinformaticians, to support researchers and students in answering scientific questions. The mission of my team within the GLBRC is improving scientific rigor by developing robust statistical and machine-learning frameworks, standardized HPC/R pipelines, and cutting-edge open-source software.
 
 # Get in touch
 - 📫 benucci[at]msu[dot]edu
